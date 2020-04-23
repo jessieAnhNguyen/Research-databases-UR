@@ -1,0 +1,93 @@
+
+body{
+        background-color:#10427A;
+        margin:0;
+}
+
+
+.title{
+    color:white;
+    text-align: center;
+    font-family: "helvetica Neue";
+    font-size: 50px;
+    margin-top:2%;
+}
+
+.line{
+    width: 100%;
+    height: 5%;
+    border-bottom: 5px solid #FDDC04;
+    position: absolute;
+}
+
+.image img{
+    width: 200px;
+    height: 198px;
+    position: relative;
+    top:-112px;
+    margin: 30px;
+    margin-left: 70px;
+}
+
+.form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    width: 500px;
+    padding: 30px;
+    position: relative;
+    background: #FFFFFF;
+    border:10px #5593AF solid;
+    top:-200px;
+    margin:50px auto;
+
+
+}
+
+
+.buttonDesign{
+    color:black;
+    font-family: "helvetica Neue";
+    font-size: 1.0em;
+    text-align: center;
+    background-color:#ADDDF0;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 150;
+}
+
+
+.form-style-8 input[type="text"],
+.form-style-8 input[type="date"],
+.form-style-8 input[type="datetime"],
+.form-style-8 input[type="email"],
+.form-style-8 input[type="number"],
+.form-style-8 input[type="search"],
+.form-style-8 input[type="time"],
+.form-style-8 input[type="url"],
+.form-style-8 input[type="password"],
+.form-style-8 textarea,
+.form-style-8 select
+{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+    background: transparent;
+    margin-bottom: 10px;
+    font: 16px Arial, Helvetica, sans-serif;
+    height: 45px;
+}
+.form-style-8 textarea{
+    resize:none;
+    overflow: hidden;
+}
+
+
+
+
+

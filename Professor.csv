@@ -1,0 +1,21 @@
+ProfessorID,DepartmentID,FirstName,MI,LastName,Email
+10001,2009,Bruce,,Wayne,notbatman@superhero.com
+10002,2008,Thomas,,Wayne,richman@relative.com
+10003,2010,Clark,,Kent,superman@superhero.com
+10004,2005,Peter,,Parker,spiderman@superhero.com
+10005,2003,Anthony,E,Stark,ironman@superhero.com
+10006,2006,Steven,,Rodgers,captainamerica@superhero.com
+10007,2006,Bucky,,Barnes,wintersoldier@superhero.com
+10008,2006,Peggy ,,Carter,peggy@superhero.com
+10009,2003,Howard,Anthony,Stark,richman2@relative.com
+10010,2006,Heinz,,Kruger,villian@notsuperhero.com
+10011,2006,Nicholes,J,Fury,fury@superhero.com
+10012,2007,Natasha,,Romanova,blackwidow@superhero.com
+10013,2004,Bruce,,Banner,hulk@superhero.com
+10014,2002,Clint,,Barton,hawkeye@superhero.com
+10015,2004,Erik,,Selvig,smart@professor.com
+10016,2001,Thor,,Odinson,thor@superhero.com
+10017,2004,Hank,,Pym,smart2@professor.com
+10018,2002,Curt,,Connors,villian2@notsuperhero.com
+10019,2003,Otto,G,Octavius,dangerousVillian@villian.com
+10020,2001,Charles,F,Xavier,xman@superhero.com
